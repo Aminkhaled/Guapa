@@ -4,6 +4,7 @@
     box-sizing: border-box;
 
 }
+body{overflow-x: hidden;}
 /* section headerr bannner*/
 #header-banner{
     background-color:rgba(239, 239, 242, 1) !important;
@@ -19,6 +20,7 @@
 }
 #header-banner .content-logo{
     text-align: center;
+    margin-top: 60px;
 }
 #header-banner .content-logo .logo-text h2{
     color: rgba(255, 255, 255, 1);
