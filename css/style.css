@@ -281,6 +281,12 @@ body{overflow-x: hidden;}
      #footer .social-media{
          justify-content: center;
      }
+    #benefits .benefits-text .benefit-item img {
+        width: 24%;
+        margin-left: 15px;
+        height: 24%;
+        margin-top: 20px;
+    }
 }
 /*
 }*/
@@ -302,6 +308,11 @@ body{overflow-x: hidden;}
         font-size: 16px;
         color: rgba(54, 53, 96, 1);
     }
-
+    #benefits .benefits-text .benefit-item img {
+        width: 24%;
+        margin-left: 15px;
+        height: 24%;
+        margin-top: 20px;
+    }
 
 }
