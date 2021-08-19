@@ -1,8 +1,16 @@
+@font-face {
+    font-family: Bahji;
+    src: url("fonts/Bahij_TheSansArabic-SemiBold.ttf");
+}
 *,html,body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Bahji,SansSerif;
 
+}
+h2,p{
+    font-family: Bahji,SansSerif;
 }
 body{overflow-x: hidden;}
 /* section headerr bannner*/
