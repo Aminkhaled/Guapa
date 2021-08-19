@@ -223,7 +223,7 @@ body{overflow-x: hidden;}
     margin-left: 15px;
 }
 @media only screen and (max-width: 800px) {
-    body{
+    body,html{
         overflow-x:hidden ;
     }
 
@@ -286,6 +286,9 @@ body{overflow-x: hidden;}
 }*/
 
 @media only screen and (max-width: 480px){
+    html{
+        overflow-x: hidden;
+    }
     .testimonials-text {
         text-align: center;
         margin-top: 14px;
